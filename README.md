@@ -44,7 +44,7 @@ The Solution (Core Features):
 4.  Societies: `id`, `name`, `description`.
 
  Folder Structure:
-
+```text
 UniversityHub/
 │
 ├── backend/                  # FastAPI Backend

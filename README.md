@@ -74,4 +74,4 @@ cd UniversityHub
 **Run with Docker:
 
 bash
-docker-compose up --build
+docker-compose up -d
